@@ -37,6 +37,13 @@
 
 ## 📸 Preview
 
+### 🎥 Demo Video
+
+Watch full demo here:
+https://drive.google.com/file/d/1g-efKzypo2mCdXtwn3UwqALjecAiyyw-/view?usp=drive_link
+
+
+
 ```
 ┌─────────────────────────────────────────────────────────┐
 │  ⬡ FaceID Attendance System                             │
